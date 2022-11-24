@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=733DF7&center=true&vCenter=true&width=435&lines=I'm+Michel+Adelino;Front-end+developer;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=733DF7&vCenter=true&width=435&lines=I'm+Michel+Adelino;Front-end+developer;I+love+languages+)](https://git.io/typing-svg)
 
 <!--
 **MichMatrix/MichMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
