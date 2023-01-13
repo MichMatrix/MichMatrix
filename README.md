@@ -44,14 +44,10 @@ Here are some ideas to get you started:
 <details>
     <summary><h3>Github Stats</h3></summary>
   <table>
-    
-    <div align="center">
-      <td><a href="https://github.com/MichMatrix">
-        <img height="180em" src="https://github-readme-stats-michel-adelino.vercel.app/api?username=MichMatrix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+      <td><img height="180em" src="https://github-readme-stats-michel-adelino.vercel.app/api?username=MichMatrix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
       <td><img height="180em" src="https://github-readme-stats-michel-adelino.vercel.app/api/top-langs/?username=MichMatrix&layout=compact&langs_count=7&theme=dracula"/></td>
-    </div>
-      
   </table>
+  
   <table>
     <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MichMatrix&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=050F2C&ring=0195DD&fire=23AA7D&currStreakLabel=23AA7D"></td> 
   </table>
