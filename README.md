@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=733DF7&vCenter=true&width=435&lines=I'm+Michel+Adelino;Front-end+developer;I+love+languages+)](https://git.io/typing-svg)
 
+## About me
 
-
-📚 Computer Science Undergraduate Student at Universidade Federal da Paraíba
-🔤 English, Portuguese, French and Spanish languages
-✨ I'm passionate about UX and UI ♥
+- 📚 Computer Science Undergraduate Student at Universidade Federal da Paraíba
+- 🔤 English, Portuguese, French and Spanish languages
+- ✨ I'm passionate about UX and UI
 
 
 <!--
