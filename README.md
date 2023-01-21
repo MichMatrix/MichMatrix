@@ -48,7 +48,9 @@ Here are some ideas to get you started:
       <td><img height="180em" src="https://github-readme-stats-michel-adelino.vercel.app/api/top-langs/?username=MichMatrix&layout=compact&langs_count=7&theme=dracula"/></td>
   </table>
   
-  <table>
-    <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MichMatrix&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=050F2C&ring=0195DD&fire=23AA7D&currStreakLabel=23AA7D"></td> 
+  <table style="display: block; 
+           margin: auto;
+           width: 90%;">
+    <td><img height="180em" src="https://streak-stats.demolab.com?user=MichMatrix&theme=dracula&hide_border=true&stroke=DDDDDD&currStreakNum=ECECEC&currStreakLabel=A186EA&fire=A186EA&dates=B9B9B9&sideLabels=E0E0E0&sideNums=ECECEC&background=282A36"></td> 
   </table>
     
