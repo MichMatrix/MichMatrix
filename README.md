@@ -5,6 +5,7 @@
 - 📚 Computer Science Undergraduate Student at Universidade Federal da Paraíba
 - 🔤 English, Portuguese, French and Spanish languages
 - ✨ I'm passionate about UX and UI
+- 👨‍💻 Researcher in Machine Learning and Data vizualization
 
 
 ### Hobbies
