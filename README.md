@@ -6,6 +6,7 @@
 - 🔤 English, Portuguese, French and Spanish languages
 - ✨ I'm passionate about UX and UI
 - 👨‍💻 Researcher in Machine Learning and Data vizualization
+- 📫 2023 IEEE Computational Intelligence Chapter Chair at UFPB Student Branch
 
 
 ### Hobbies
