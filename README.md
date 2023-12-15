@@ -3,9 +3,10 @@
 ## About me
 
 - 📚 Computer Science Undergraduate Student at Universidade Federal da Paraíba
+- 👨‍💻 Intern developer at Systems Engineering and Robotics Laboratory - (LaSER) for TNS LATAM
 - 🔤 English, Portuguese, French and Spanish languages
 - ✨ I'm passionate about UX and UI
-- 👨‍💻 Researcher in Machine Learning and Data vizualization
+- 👨‍💻 Researcher student in Machine Learning and Data vizualization
 - 📫 2023 IEEE Computational Intelligence Chapter Chair at UFPB Student Branch
 
 
