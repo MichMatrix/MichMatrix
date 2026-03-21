@@ -2,11 +2,11 @@
 
 ## About me
 
-- 📚 Computer Science Undergraduate Student at Universidade Federal da Paraíba
+- 📚 BS Computer Science at Universidade Federal da Paraíba
 - 👨‍💻 Scholarship researcher at Digital Video Applications Laboratory - LAViD
 - 🔤 English, Portuguese, French and Spanish languages
 - ✨ I'm passionate about UX and UI
-- 👨‍💻 Researcher student in Machine Learning and Data vizualization
+- 👨‍💻 Researcher in Machine Learning and Data vizualization
 - 📫 2023 IEEE Computer and Computational Intelligence Chapter Chair at UFPB Student Branch
   
 
